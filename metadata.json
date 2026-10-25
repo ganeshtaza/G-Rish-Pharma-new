@@ -1,0 +1,6 @@
+{
+  "name": "G-Rish Pharma Pvt Ltd",
+  "description": "Navi Mumbai based Pharmaceutical Manufacturing Company in India engaged in contract manufacturing, WHO GMP approved facilities, exporting, supplying, and marketing APIs & finished formulations worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
