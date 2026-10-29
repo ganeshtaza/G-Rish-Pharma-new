@@ -1,3 +1,3 @@
-app_location:
-api_location:
-output_location:
+app_location: "/"
+api_location: ""
+output_location: "dist"
